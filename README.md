@@ -6,11 +6,17 @@
 
 ## Getting Started
 
+- For various examples, see: 
+
 ```
 .
 ├── README.md
-├── examples
-    └── pagination
-            └── pagination_example.ipynb
+└── examples
+    │
+    ├── pagination
+    │       └── pagination_example.ipynb
+    │
+    └── search_historical
+            └── twitter_apiv2_search.ipynb
 ```
 
